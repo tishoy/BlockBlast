@@ -1,0 +1,238 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/hanchuang/Games/RotateBlock/assets/scene.meta": {
+      "time": 1698802316341.362
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/scene": {
+      "time": 1698802318365.938,
+      "uuid": "b07f255e-a360-4c30-8af4-b37b5f24960f"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/scene/GameScene.scene.meta": {
+      "time": 1698802121578.0022
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/scene/GameScene.scene": {
+      "time": 1698908602003.7346,
+      "uuid": "86d8e71d-974c-45d3-88d6-312e17b6a4bb"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/prefab.meta": {
+      "time": 1698802326822.243
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/prefab": {
+      "time": 1698804529569.651,
+      "uuid": "238449d0-11f6-4520-99e9-7d5322645126"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src.meta": {
+      "time": 1698802703646.395
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src": {
+      "time": 1698907702450.1233,
+      "uuid": "22d1384c-40cd-4417-a195-f88097ff9f4a"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/GameScene.ts.meta": {
+      "time": 1698802715565.885
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/GameScene.ts": {
+      "time": 1698909902649.4937,
+      "uuid": "4980ffbc-4a7e-403e-bfdc-b71b167e1760"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/GameArea.ts.meta": {
+      "time": 1698803317931.0159
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/GameArea.ts": {
+      "time": 1698909807310.1804,
+      "uuid": "068d6cbc-8789-4dfa-9fda-6e6d903eac62"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/prefab/Grid.prefab.meta": {
+      "time": 1698804522758.533
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/prefab/Grid.prefab": {
+      "time": 1698908330313.062,
+      "uuid": "bc649d0b-1329-4324-95fb-1617b708cfec"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/prefab/Block.prefab.meta": {
+      "time": 1698804529572.6726
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/prefab/Block.prefab": {
+      "time": 1698903841876.9136,
+      "uuid": "7d4f9fcf-3305-422c-ad92-1a8b8fc3a024"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/Block.ts.meta": {
+      "time": 1698805494620.9922
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/Block.ts": {
+      "time": 1698906996666.4573,
+      "uuid": "73463f02-c46d-4e1c-bc97-7f6e68d67283"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/Grid.ts.meta": {
+      "time": 1698805507193.017
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/Grid.ts": {
+      "time": 1698907978540.05,
+      "uuid": "77bb7ae7-7112-4c6e-ad83-313aa44b8ea8"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/BlockEnum.ts.meta": {
+      "time": 1698807658123.856
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/ColorEnum.ts.meta": {
+      "time": 1698807658124.7122
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/BlockEnum.ts": {
+      "time": 1698901960032.5977,
+      "uuid": "5b415228-b172-4efe-9965-c7e883041d12"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/ColorEnum.ts": {
+      "time": 1698908339537.1592,
+      "uuid": "caae0d93-5b55-48f6-b3d5-51be1f9333ab"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/GameController.ts.meta": {
+      "time": 1698807776541.947
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/src/GameController.ts": {
+      "time": 1698909320280.3752,
+      "uuid": "2df4e79e-fa6b-477d-b9d4-e06764c6a6ea"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources.meta": {
+      "time": 1698900262830.9746
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture.meta": {
+      "time": 1698899404499.9995
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources": {
+      "time": 1698897888326.4756,
+      "uuid": "02f36c15-f5d0-4109-81dd-28ec186f52f8"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture": {
+      "time": 1698812596725.9434,
+      "uuid": "5d9b05bd-498a-4175-8783-a55900d3360a"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/bg.png.meta": {
+      "time": 1698810958149.1282
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid0.png.meta": {
+      "time": 1698810688723.547
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid1.png.meta": {
+      "time": 1698810688770.6868
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid2.png.meta": {
+      "time": 1698810722104.251
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid3.png.meta": {
+      "time": 1698810732082.1985
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid4.png.meta": {
+      "time": 1698810740287.136
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid5.png.meta": {
+      "time": 1698810745833.6711
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid6.png.meta": {
+      "time": 1698810751680.3005
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid2.png": {
+      "time": 1698810271000,
+      "uuid": "7a13acc0-f71a-4b69-8a2a-905f55cb10cf"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid3.png": {
+      "time": 1698810307000,
+      "uuid": "7560c1f2-8f5a-472d-a93c-86ac7c5c57b6"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid1.png": {
+      "time": 1698810211000,
+      "uuid": "4d0a7498-95fe-46f1-96e1-aa1ee0bcd89e"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid0.png": {
+      "time": 1698810152000,
+      "uuid": "4f9b8976-8a59-4af3-969f-b761b7ad1b19"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/bg.png": {
+      "time": 1698810879000,
+      "uuid": "f914faa0-ae42-47fe-83e9-f0303c5a35aa"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid4.png": {
+      "time": 1698810348000,
+      "uuid": "e6e4f4b2-a752-4be4-9852-b20cd981c455"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid5.png": {
+      "time": 1698810381000,
+      "uuid": "27da3b43-62a8-436d-8aa1-511c1163531a"
+    },
+    "/Users/hanchuang/Games/RotateBlock/assets/resources/texture/grid6.png": {
+      "time": 1698810440000,
+      "uuid": "cf1c65ff-8fbd-40e1-8e75-0e8140bed8fa"
+    }
+  },
+  "missing": {
+    "86d8e71d-974c-45d3-88d6-312e17b6a4bb": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/GameScene.scene",
+      "time": 1698802224260.329,
+      "removeTime": 1698802318366
+    },
+    "bc649d0b-1329-4324-95fb-1617b708cfec": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/prefab/Block.prefab",
+      "time": 1698803210017.071,
+      "removeTime": 1698804522754
+    },
+    "adc59b39-f81f-4e77-abf9-3004d9f64aad": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/src/GameManager.ts",
+      "time": 1698803188759.2124,
+      "removeTime": 1698803317929
+    },
+    "7a13acc0-f71a-4b69-8a2a-905f55cb10cf": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource/texture/grid2.png",
+      "time": 1698810271000,
+      "removeTime": 1698900262805
+    },
+    "7560c1f2-8f5a-472d-a93c-86ac7c5c57b6": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource/texture/grid3.png",
+      "time": 1698810307000,
+      "removeTime": 1698900262805
+    },
+    "e6e4f4b2-a752-4be4-9852-b20cd981c455": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource/texture/grid4.png",
+      "time": 1698810348000,
+      "removeTime": 1698900262805
+    },
+    "27da3b43-62a8-436d-8aa1-511c1163531a": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource/texture/grid5.png",
+      "time": 1698810381000,
+      "removeTime": 1698900262805
+    },
+    "cf1c65ff-8fbd-40e1-8e75-0e8140bed8fa": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource/texture/grid6.png",
+      "time": 1698810440000,
+      "removeTime": 1698900262805
+    },
+    "4f9b8976-8a59-4af3-969f-b761b7ad1b19": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource/texture/grid0.png",
+      "time": 1698810152000,
+      "removeTime": 1698900262804
+    },
+    "4d0a7498-95fe-46f1-96e1-aa1ee0bcd89e": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource/texture/grid1.png",
+      "time": 1698810211000,
+      "removeTime": 1698900262804
+    },
+    "f914faa0-ae42-47fe-83e9-f0303c5a35aa": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource/texture/bg.png",
+      "time": 1698810879000,
+      "removeTime": 1698900262804
+    },
+    "c9ae44f2-a3e6-48bb-a7d2-99b4915d272e": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource",
+      "time": 1698897888326.4756,
+      "removeTime": 1698900262804
+    },
+    "5d9b05bd-498a-4175-8783-a55900d3360a": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/resource/texture",
+      "time": 1698812596725.9434,
+      "removeTime": 1698900262804
+    },
+    "12833c87-cc51-46a2-bc3b-f7f036ab6b35": {
+      "path": "/Users/hanchuang/Games/RotateBlock/assets/src/Assets.ts",
+      "time": 1698904481758.53,
+      "removeTime": 1698907733457
+    }
+  }
+}

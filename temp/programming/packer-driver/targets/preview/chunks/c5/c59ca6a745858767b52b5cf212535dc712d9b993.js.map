@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///Users/hanchuang/Games/RotateBlock/assets/src/BlockEnum.ts"],"names":["BlockEnum","P1X1","I1X2"],"mappings":";;;iBAAaA,S;;;;;;;;;;;;;2BAAAA,S,GAAN,MAAMA,SAAN,CAAgB,E;;AAAVA,MAAAA,S,CACFC,I,GAAO,C;AADLD,MAAAA,S,CAEFE,I,GAAO,C","sourcesContent":["export class BlockEnum {\n    static P1X1 = 0;\n    static I1X2 = 1;\n}"]}
